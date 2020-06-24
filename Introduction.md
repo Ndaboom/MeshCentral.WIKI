@@ -1,6 +1,6 @@
 MeshCentral is a free open source web-based remote computer management software. You could setup your own management server on a local network or on the internet and remote control and manage computers that runs either Windows* or Linux* OS.
 
-[[images/introduction3.png]]
+[[images/introduction4.png]]
 
 To begin a management server will be required. A management server could be any computing device (PC or VM) that has sufficient compute, storage and reliable network components to host an environment for MeshCentral and deliver good performance during remote management exercise. Whilst there are many configurations available for advanced users, typical server setup would only take just a few minutes to complete. 
 
