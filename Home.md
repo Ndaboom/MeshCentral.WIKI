@@ -1,3 +1,5 @@
+[[images/MC2-Banner.png]]
+
 MeshCentral is an open source, web-based, remote computer monitoring and management web site. It's completely free and you can install it to manage computers on a local network or over the Internet. Here are a few resources to get your started.
 
 * [Main Web Site](https://www.meshcommander.com/meshcentral2). Contains instructions, download links, documentation and tutorial videos.
