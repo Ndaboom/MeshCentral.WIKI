@@ -8,8 +8,8 @@ MeshCentral is an open source, web-based, remote computer monitoring and managem
 
 For a quick overview of MeshCentral manageability and security features, take a look at these two one page PDF documents.
 
-* [Manageability Features Guide](http://info.meshcentral.com/downloads/MeshCentral2/MeshCentral2SecurityFeaturesGuide.pdf).
-* [Security Features Guide](http://info.meshcentral.com/downloads/MeshCentral2/MeshCentral2ManagementFeaturesGuide.pdf).
+* [Manageability Features Guide](http://info.meshcentral.com/downloads/MeshCentral2/MeshCentral2ManagementFeaturesGuide.pdf).
+* [Security Features Guide](http://info.meshcentral.com/downloads/MeshCentral2/MeshCentral2SecurityFeaturesGuide.pdf).
 
 If you are familial with NodeJS, all you need to know to get MeshCentral running are these two commands:
 
